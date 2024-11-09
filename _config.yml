@@ -40,7 +40,16 @@ repository: 9elmaz9.github.io/dzhelianchyk_elmaz
 github_pages:
     - 9elmaz9.github.io/dzhelianchyk_elmaz
   
-
+projects:
+ # sort_by: stars
+#  exclude:
+  #  archived: true
+  #  forks: true
+    projects:
+    - 9elmaz9/keep_in_touch
+    - 9elmaz9/Spring-TeamWork
+    - 9elmaz9/GPT_fun_bot
+    - 9elmaz9/Server_spring_boot_angular
 
 plugins:
   - "jekyll-github-metadata"

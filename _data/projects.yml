@@ -1,0 +1,40 @@
+projects:
+  - name: "Keep in touch"
+    description: "Full stack project"
+    github_link: "https://github.com/9elmaz9/keep_in_touch"
+    tags:
+      - Java
+      - Spring Boot
+      - Full Stack
+      - REST API
+      - SQL
+      - GitHub Actions
+
+  - name: "GPT fun bot"
+    description: "Multi-functional OpenAI's ChatGPT bot"
+    github_link: "https://github.com/9elmaz9/GPT_fun_bot"
+    tags:
+      - Python
+      - ChatGPT
+      - Bot
+      - Machine Learning
+      - OpenAI
+
+  - name: "Beauty Blog"
+    description: "Spring boot/ Full stack/ Teamwork project"
+    github_link: "https://github.com/9elmaz9/Spring-TeamWork"
+    tags:
+      - Java
+      - Spring Boot
+      - Teamwork
+      - Full Stack
+      - Blogging
+
+  - name: "Product Management Application"
+    description: "Spring Data JPA"
+    github_link: "https://github.com/9elmaz9/Product_Management_SpringBoot"
+    tags:
+      - Java
+      - Spring Data JPA
+      - SQL
+      - Management System
