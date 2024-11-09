@@ -27,9 +27,9 @@ timeline_title: Education & Experience
 cv_download_link: https://elmaz-dzhelianchyk-cv.tiiny.site/
 
 show_projects_card: true
-show_projects: false
+show_projects: true
 projects_title: Work Projects
-show_os_projects: true
+show_os_projects: false
 os_projects_title: Portfolio Projects
 
 show_contact_card: true
