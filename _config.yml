@@ -51,7 +51,8 @@ projects:
     - 9elmaz9/GPT_fun_bot
     - 9elmaz9/Server_spring_boot_angular
 
-
+plugins:
+  - "jekyll-github-metadata"
 
 exclude:
   [
