@@ -1,6 +1,6 @@
 title: Elmaz Dzhelianchyk
 description: Elmaz Dzhelianchyk's Personal Website
-baseurl: "/dzhelianchyk_elmaz" # если сайт на поддиректории
+baseurl: "" # "/dzhelianchyk_elmaz"  если сайт на поддиректории
 # repository: 9elmaz9.github.io/dzhelianchyk_elmaz
 
 username: Elmaz Dzhelianchyk
@@ -38,7 +38,7 @@ contact_description: Feel free to contact me wherever is comfortable for you
 
 repository: 9elmaz9.github.io/dzhelianchyk_elmaz
 github_pages:
-  
+  - sorting_algos
   - 9elmaz9.github.io/dzhelianchyk_elmaz
   
 projects:
@@ -47,7 +47,8 @@ projects:
     archived: true
     forks: true
     projects:
-      - 9elmaz9/GPT_fun_bot
+      - 9elmaz9
+
 plugins:
   - "jekyll-github-metadata"
 
