@@ -42,12 +42,26 @@ github_pages:
   - 9elmaz9.github.io/dzhelianchyk_elmaz
   
 projects:
-  sort_by: stars
-  exclude:
-    archived: true
-    forks: true
-    projects:
-      - 9elmaz9/GPT_fun_bot
+  # Disable sorting to show specific projects
+  sort_by: none
+  include: # Specify only the projects you want to display
+    - name: "Keep in Touch"
+      url: "https://github.com/9elmaz9/keep_in_touch"
+      description: "Full stack project"
+      tags: ["Java", "Spring Boot", "Angular", "Full Stack"]
+    - name: "GPT Fun Bot"
+      url: "https://github.com/9elmaz9/GPT_fun_bot"
+      description: "Multi-functional OpenAI's ChatGPT bot"
+      tags: ["Python", "Bot", "OpenAI"]
+    - name: "Beauty Blog"
+      url: "https://github.com/9elmaz9/Spring-TeamWork"
+      description: "Spring boot/Full stack/TeamWork project"
+      tags: ["Java", "Spring Boot", "Full Stack"]
+    - name: "Product Management Application"
+      url: "https://github.com/9elmaz9/Product_Management_SpringBoot"
+      description: "Spring Data JPA"
+      tags: ["Java", "Spring Data JPA", "Backend"]
+      
 plugins:
   - "jekyll-github-metadata"
 
