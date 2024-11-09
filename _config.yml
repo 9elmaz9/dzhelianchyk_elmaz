@@ -1,6 +1,7 @@
 title: Elmaz Dzhelianchyk
 description: Elmaz Dzhelianchyk's Personal Website
-baseurl: ""
+baseurl: "/dzhelianchyk_elmaz" # если сайт на поддиректории
+# repository: 9elmaz9.github.io/dzhelianchyk_elmaz
 
 username: Elmaz Dzhelianchyk
 typing_text: Java Developer  
