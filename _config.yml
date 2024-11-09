@@ -38,8 +38,10 @@ contact_description: Feel free to contact me wherever is comfortable for you
 
 repository: 9elmaz9.github.io/dzhelianchyk_elmaz
 github_pages:
-  - sorting_algos
-  - 9elmaz9.github.io/dzhelianchyk_elmaz
+  - 9elmaz9/keep_in_touch
+  - 9elmaz9/Spring-TeamWork
+  - 9elmaz9/GPT_fun_bot
+  - 9elmaz9/Server_spring_boot_angular
   
 projects:
   sort_by: stars
