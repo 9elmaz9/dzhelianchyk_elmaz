@@ -1,0 +1,62 @@
+title: Elmaz Dzhelianchyk
+description: Elmaz Dzhelianchyk's Personal Website
+baseurl: ""
+
+username: Elmaz Dzhelianchyk
+typing_text: Java Developer  
+
+email: dzhelianchykelmaz@gmail.com
+telegram_username: djeluanchik
+linkedin_username: elmaz-dzhelianchyk
+github_username: 9elmaz9
+facebook_username: 
+instagram_username: elmaz_djelianchik
+whatsapp_number: +32479408896
+# personal_store: <<my_store>>
+
+show_aboutme_card: false
+about_me_title: About Me
+about_me_description: <empty>
+
+show_skills_card: true
+skills_title: Skills
+
+show_timeline_card: true
+timeline_title: Education & Experience
+cv_download_link: https://elmaz-dzhelianchyk-cv.tiiny.site/
+
+show_projects_card: true
+show_projects: false
+projects_title: Work Projects
+show_os_projects: true
+os_projects_title: Portfolio Projects
+
+show_contact_card: true
+contact_title: Contacts
+contact_description: Feel free to contact me wherever is comfortable for you
+
+repository: 9elmaz9.github.io/dzhelianchyk_elmaz
+github_pages:
+  - sorting_algos
+  - 9elmaz9.github.io/dzhelianchyk_elmaz
+  
+projects:
+  sort_by: stars
+  exclude:
+    archived: true
+    forks: true
+    projects:
+      - 9elmaz9
+
+plugins:
+  - "jekyll-github-metadata"
+
+exclude:
+  [
+    "_assets",
+    "Gemfile",
+    "Gemfile.lock",
+    "gulpfile.js",
+    "node_modules",
+    "package.json",
+  ]

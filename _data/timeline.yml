@@ -1,0 +1,77 @@
+- title: INTEC BRUSSEL
+  title-url: 
+  date: Sep 2023 - Sep 2024
+  subtitle: ENTERPRISE JAVA DEVELOPER CERTIFICATION
+  tags:
+    - tag: Completed an intensive, market-focused program that provided deep training in advanced Java EE development, equipping me with the skills to build scalable enterprise applications.
+    - tag: The program included hands-on collaborative projects that enhanced my teamwork abilities and sharpened my problem-solving skills within a development team setting.
+    - tag:This rigorous training solidified my expertise in Java and key technologies, preparing me to tackle real-world challenges with confidence and efficiency.
+    - tag:
+    - tag: Java
+    - tag: Spring
+    - tag: Hibernate
+    - tag: JS
+    - tag: JUnit5
+    - tag: Agile
+    - tag: Angular
+    - tag: RESTful Web Services
+
+  timeline-side: left
+
+- title: DEVELOPING FULL-STACK ENGINEER
+  title-url: 
+  date: Sep 2023 - present
+  subtitle: Software Engineer
+  tags:
+    - tag: Developed a Spring Boot application for managing user contacts
+                      and event scheduling, utilizing RESTful Web Services and MySQL
+                      databases.
+    - tag: Collaborated within a team in an Agile/Scrum environment to
+                      deliver new features, such as a custom authentication system
+                      using Spring Security and Bcrypt.
+    - tag: Tested APIs and services using JUnit5, Mockito, and Postman,
+                      ensuring robustness and efficiency of all features
+    - tag: Java
+    - tag: Angular
+    - tag: SQL
+    - tag: Git
+    - tag: Tailwind
+    - tag: HTML/CSS
+    - tag: Docker
+    - tag: Mockito
+
+
+  timeline-side: right
+
+- title: DIRECTOR OF OPERATIONS MANAGEMENT
+  title-url: 
+  date:  2014 - Feb 2022
+  subtitle: Kyiv, Ukraine
+  tags:
+    - tag: Optimized operations across high-end facilities, overseeing staff, customer satisfaction, and financial performance with lean management techniques.
+    - tag: Led the launch of new restaurants and contributed to the success of a top-20 ranked Kiev restaurant through strategic management
+    - tag: Developed strong leadership, problem-solving, and team-building
+                      skills, transferable to software development
+
+    - tag: Conducted training and development programs for staff, fostering a culture of continuous improvement and professional growth.
+    - tag: Developed strong leadership, problem-solving, and team-building skills, transferable to software development
+    - tag: Data Analysis
+    - tag: Strategic Planning
+    - tag: Mentorship & Coaching
+    - tag: Risk Assessment
+    - tag: Project Management
+    - tag: Emotional Intelligence
+
+  timeline-side: left
+
+- title: TRADE AND ECONOMICS UNIVERSITY , UKRAINE
+  title-url: 
+  date:  2012 -  2016
+  subtitle: Bachelor of Science in Hotel and Restaurant Management
+  tags:
+    - tag: Graduated with a professional bachelor’s degree, specializing in hotel and restaurant management.
+    - tag: Gained a solid foundation in leadership and organizational skills, with a strong focus on operations management, team coordination, and process optimization to enhance efficiency and performance in the hospitality industry. 
+  timeline-side: right
+
+
+

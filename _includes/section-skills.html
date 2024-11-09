@@ -1,0 +1,28 @@
+<h1 class="title">{{site.skills_title}}</h1>
+
+<div id="skills">
+  <input type="radio" id="all" name="filter" checked />
+  <label class="filter-button neumorphism-button" for="all">All</label>
+  <input type="radio" id="backend" name="filter" />
+  <label class="filter-button neumorphism-button" for="backend">backend</label>
+  <input type="radio" id="frontend" name="filter" />
+  <label class="filter-button neumorphism-button" for="frontend">frontend</label>
+  <input type="radio" id="tool" name="filter" />
+  <label class="filter-button neumorphism-button" for="tool">Tools</label>
+
+  {% for backend in site.data.skills-backends %}
+    <div skill-type="backend" skill-weight="{{backend.weight}}" data-aos="zoom-in">
+      {{backend.name}}
+    </div>
+  {% endfor %}
+  {% for frontend in site.data.skills-frontends %}
+    <div skill-type="frontend" skill-weight="{{frontend.weight}}" data-aos="zoom-in">
+      {{frontend.name}}
+    </div>
+  {% endfor %}
+  {% for tool in site.data.skills-tools %}
+    <div skill-type="tool" skill-weight="{{tool.weight}}" data-aos="zoom-in">
+      {{tool.name}}
+    </div>
+  {% endfor %}
+</div>
