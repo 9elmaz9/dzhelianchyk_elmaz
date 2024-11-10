@@ -278,8 +278,15 @@
                 <style>
                 .flag.neumorphism-button {
                   white-space: nowrap;
-                  overflow: hidden;
-              }
+                  overflow: hidden;}
+
+                  /* На мобильных устройствах разрешаем перенос */
+                @media (max-width: 768px) {
+                .flag.neumorphism-button {
+                  white-space: normal; /* Включаем перенос текста на маленьких экранах */
+                  }
+                }
+     
               </style>
               </span>
               <span class="time-wrapper" data-aos="zoom-in-left">
