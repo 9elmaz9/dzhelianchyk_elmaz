@@ -1,20 +1,20 @@
-- name: 
+- name: Java
   weight: 5
 
-- name: 
+- name: Spring
   weight: 4
 
-- name: 
+- name: Hibernate
   weight: 4
 
-- name: 
+- name: JPA
   weight: 4
 
-- name: 
+- name: RESTful Web Services
   weight: 4
 
-- name: 
+- name: MySQL
   weight: 4
 
-- name: 
+- name: H2
   weight: 4

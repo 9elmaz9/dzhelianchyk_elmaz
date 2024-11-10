@@ -1,23 +1,23 @@
-- name: 
+- name: Git
   weight: 5
 
-- name: 
+- name: Docker
   weight: 5
 
-- name: 
+- name: Maven
   weight: 5
 
-- name: 
+- name: JUnit5
   weight: 5
 
-- name: 
+- name: Mockito
   weight: 4
 
-- name: 
+- name: IntelliJ IDEA
   weight: 4
 
-- name: 
+- name:  Visual Studio Code
   weight: 3
 
-- name: 
+- name: Postman
   weight: 3

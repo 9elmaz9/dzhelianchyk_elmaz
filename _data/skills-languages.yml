@@ -1,19 +1,19 @@
-- name: 
+- name: HTML/CSS
   weight: 5
 
-- name: 
+- name:  JavaScript
   weight: 4
 
-- name: 
+- name: Angular
   weight: 4
 
-- name: 
+- name: Thymeleaf
   weight: 3
 
-- name: 
+- name:  Tailwind CSS
   weight: 2
 
-- name: 
+- name:  jQuery
   weight: 2
 
 - name: 
